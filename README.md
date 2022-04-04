@@ -1,7 +1,5 @@
 # Food Ordering System
 
-visit- https://projectworlds.in/php-projects/food-ordering-system-project-in-php/
-
 How To Install -
 ---------
 
