@@ -1,4 +1,4 @@
-# Food Ordering System
+<h1 align="center">ZWIGGY</h1> 
 
 How To Install -
 ---------
